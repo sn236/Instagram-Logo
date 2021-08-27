@@ -1,0 +1,38 @@
+.square{
+  margin: 200px auto;
+  width: 150px;
+  height: 150px;
+  background-color: #4158D0;
+background-image: linear-gradient(218deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+  border-radius: 25%;
+}
+.isquare{
+  position: relative;
+  top: 17px;
+  left: 0px;
+  margin: 200px auto;
+  width: 100px;
+  height: 100px;
+  border: 10px solid white;
+  border-radius: 25%;
+}
+.icircle{
+  position: relative;
+  top: -271px;
+  left: 0px;
+  margin: 200px auto;
+  width: 45px;
+  height: 45px;
+  border: 10px solid white;
+  border-radius: 50%;
+}
+.scircle{
+  position: relative;
+  top: -550px;
+  left: 35px;
+  margin: 200px auto;
+  width: 15px;
+  height: 15px;
+  background: white;
+  border-radius: 50%;
+}
